@@ -1,0 +1,16 @@
+node_modules/
+**/node_modules/
+.env
+.env.*
+!.env.example
+venv/
+__pycache__/
+.DS_Store
+dist/
+build/
+*.log
+*.backup
+
+# Accidental empty files
+/backend-mern/backend-mern@1.0.0
+/backend-mern/node
